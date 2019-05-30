@@ -1,6 +1,6 @@
-### s3767707-Assignment-2
+# s3767707-Assignment-2
 
-#### MiRides Application
+## MiRides Application
 
 INTRODUCTION
 ------------
