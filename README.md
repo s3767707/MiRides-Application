@@ -22,10 +22,18 @@ This sample zip contains:
     /readme.txt - this file
     /src - example code to execute the MiRides Application
     
+PRE-REQUISITES
+--------------
+
+The following are pre-requisites to successfully run the sample code:
+
+1. Java SE Runtimr Environment 8
+-   Link(https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html)
+    
     
 RUNNING THE EXAMPLE
 -------------------
 
 1. Download the repository file as a zip file.
-2. Open Java Eclipse JDK
-3. Opem File > Import
+2. Install Java Eclipse JDK
+- Open File -> Import
