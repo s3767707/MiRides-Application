@@ -28,12 +28,26 @@ PRE-REQUISITES
 The following are pre-requisites to successfully run the sample code:
 
 1. Java SE Runtimr Environment 8
--   Link(https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html)
+-   Link ( https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html )
     
     
 RUNNING THE EXAMPLE
 -------------------
-
+ 
 1. Download the repository file as a zip file.
 2. Install Java Eclipse JDK
-- Open File -> Import
+3. Open File -> Import -> File System -> Browse 
+4. Select the file you download and click on the file.
+5. The file should contain 6 subfiles :
+-   app
+-   cars
+-   exceptions
+-   io
+-   main
+-   utilities
+6. Click Finish.
+7. Compile and run the code.
+
+INTRODUCTION
+
+
