@@ -9,7 +9,7 @@ Thank you for downloading the MiRides Application. This download contains code d
 
 MiRides application does not troubleshoot content from GitHub. The sample code is as an example of code that has worked for previous implementations and was created by Anson Go Guang Ping. Please send any GitHub-related comments and feedback to s3767707@student.rmit.edu.au.
 
-#### REQUIREMENTS
+ REQUIREMENTS
 ------------
 
 JDK 1.6 
@@ -125,7 +125,9 @@ public void run() throws InvalidID
 		 */
          
   
+
 ===============================================================================
+
 Hope you enjoys MiRides Application. Cheers !
 
 
