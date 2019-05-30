@@ -13,3 +13,19 @@ MiRides application does not troubleshoot content from GitHub. The sample code i
 ------------
 
 JDK 1.6 
+
+CONTENTS
+--------
+
+This sample zip contains:
+
+    /readme.txt - this file
+    /src - example code to execute the MiRides Application
+    
+    
+RUNNING THE EXAMPLE
+-------------------
+
+1. Download the repository file as a zip file.
+2. Open Java Eclipse JDK
+3. Opem File > Import
